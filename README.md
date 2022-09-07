@@ -1,5 +1,5 @@
 # PGG.MHC
-Database related codes 
+Database related codes  
 The codes here are mainly used to set up the analysis part of the database to run  
 # HLA Imputation  
 
