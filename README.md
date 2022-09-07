@@ -1,6 +1,6 @@
 # PGG.MHC
-Database related code  
-The code here is mainly used to set up the analysis part of the database to run  
+Database related codes 
+The codes here are mainly used to set up the analysis part of the database to run  
 # HLA Imputation  
 
 ***SNP2HLA_workflow.py*** use **SNP2HLA** to do the imputation of HLA alleles from genotyping data.
