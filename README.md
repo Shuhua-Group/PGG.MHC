@@ -1,6 +1,17 @@
 # PGG.MHC
 Database related codes  
 The codes here are mainly used to set up the analysis part of the database to run  
+# HLA Typing
+## WGS_summary
+Tools to use can find on our PGG.MHC database web. 
+After making inferences about each individual using the software described above  
+WGS_merge_hla.py can combine the results to get the final result. Please note that the selection method is used, so it is possible that your replicating process will produce some different results than the ones we provide.
+The file in WGS_summary have test files.
+## WES_summary
+Tools to use can find on our PGG.MHC database web. 
+After making inferences about each individual using the software described above  
+WES_merge_hla.py can combine the results to get the final result. Please note that the selection method is used, so it is possible that your replicating process will produce some different results than the ones we provide.
+The file in WES_summary have test files.
 # HLA Imputation  
 
 ***SNP2HLA_workflow.py*** use **SNP2HLA** to do the imputation of HLA alleles from genotyping data.
